@@ -1,0 +1,2 @@
+# First-Python-program
+print("Hello GitHub!") print("I am learning Python") print("This is my first GitHub project")
